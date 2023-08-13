@@ -12,3 +12,5 @@ Admin Screenshots:
 ![Screenshots](public/blog_images/Screenshot_admin.png)
 
 ![Screenshots](public/blog_images/Screenshot_admin3.png)
+
+User Profile Page:
