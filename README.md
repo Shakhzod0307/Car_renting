@@ -14,3 +14,5 @@ Admin Screenshots:
 ![Screenshots](public/blog_images/Screenshot_admin3.png)
 
 User Profile Page:
+
+![Screenshots](public/blog_images/Screenshot_profile.png)
