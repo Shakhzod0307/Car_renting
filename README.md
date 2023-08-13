@@ -2,4 +2,4 @@
 Advanced Renting Car System in Laravel 
 
 UserPage Screenshonts:
-![Screenshots](Screenshot1.png)
+![Screenshots](blog_images/Screenshot1.png)
