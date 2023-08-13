@@ -1,7 +1,7 @@
 
-Advanced Renting Car System in Laravel 
+<h1>Advanced Renting Car System in Laravel </h1>
 
-UserPage Screenshonts:
+User Page Screenshonts:
 
 ![Screenshots](public/blog_images/Screenshot1.png)
 
